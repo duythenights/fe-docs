@@ -1,0 +1,15 @@
+[?25l[2J[m[H]0;C:\Windows\system32\cmd.exe [?25h[?25l
+> docs@1.0.0 dev C:\Users\Admim\Desktop\personal\frontend-enjoyer-space\apps\docs
+> next dev --port 3001[6;1H[?25h]0;next-server (v16.0.0)[?25l   [38;2;173;127;168m[1m▲ Next.js 16.0.0[m (Turbopack)
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.12.85:3001
+   - Environments: .env[11;1H [32m[1m✓[m Starting...
+[?25h [32m[1m✓[m Ready in 1289ms
+ [37m[1m○[m Compiling / ...
+ GET / [32m200 [min 5.5s[2m (compile: 5.1s, render: 432ms)
+[22m GET / [32m200 [min 58ms[2m (compile: 5ms, render: 53ms)
+[22m GET / [32m200 [min 44ms[2m (compile: 4ms, render: 40ms)
+[22m GET / [32m200 [min 42ms[2m (compile: 3ms, render: 39ms)
+[22m GET / [32m200 [min 45ms[2m (compile: 3ms, render: 41ms)
+[22m GET / [32m200 [min 43ms[2m (compile: 3ms, render: 40ms)
+[22m
